@@ -1,4 +1,4 @@
-# How did 2020 music preferences change across the year?
+# How did 2020 music preferences change across the year? An analysis on Italian Spotify users.
 
 
 ## Project Intro/Objective:
