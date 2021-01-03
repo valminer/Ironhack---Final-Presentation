@@ -7,15 +7,13 @@ The purpose of this project is to analyze the effect of covid on Italian Spotify
 
 ## Methods Used:
 * Exploratory Data Analysis, Data Cleaning, Data Wrangling
-* Machine Learning 
+* Machine Learning (Clustering)
 * Data Visualization
-* Predictive Modeling
 
 ## Technologies:
-* Python
+* Python [ Pandas, Numpy, Matplotlib, Sklearn, Spotipy ]
 * MySql
 * Tableau
-* Pandas, Jupyter, Numpy, Matplotlib, Seaborn
 
 ## Project Description:
 The goal of this project is to analyze and visualize how italian Spotify users preferences changed in the course of the year. As the lockdown required a long period of staying at home, I thought it was interesting to check whether the users listened to more energetic or low-mood songs. In order to analyze this, I used the Spotify features and I observed their trend in the course of the year. The clustering also helped me visualize the trends in terms of combination of features, that could hint at music genre. Finally, I checked for seasonality by comparing the trends with the ones of the previous year.
